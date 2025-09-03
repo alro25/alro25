@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👩🏽‍💻 Designer - InfoJr <br>📚 Estudando programação Front-end - Senai Cimatec <br>🌟 Soul Student 2025 <br>🚀 Estudante de Computação (2° Semestre) - UFBA <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais </p>
+<p align="left">👩🏽‍💻 Designer - InfoJr <br>🌟 Soul Student 2025 <br>📚 Estudando Programação Front-end - Senai Cimatec  <br>🚀 Estudante de Computação (2° Semestre) - UFBA <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês <br>🎨 Interesses: UX/UI, acessibilidade, interfaces criativas <br>📖 Em constante evolução unindo aprendizado, prática e projetos reais </p>
 
 ###
 
