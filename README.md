@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedora em formação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também me aventuro no design com o Figma pois quero unir código e design para construir experiências incríveis, buscando criar interfaces criativas, funcionais e acessíveis. </p>
+<p align="left">Desenvolvedora em formação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também me aventuro com o Figma pois quero unir código e design para construir experiências incríveis, buscando criar interfaces criativas, funcionais e acessíveis. </p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👩🏽‍💻 UI Designer - InfoJr <br>🌟 Soul Bilíngue Student 2025.2 <br>🚀 Estudante de Computação (2° Semestre) - UFBA <br>📚 Estudando Programação Front-end - Senai Cimatec <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês </p>
+<p align="left">👩🏽‍💻 UI Designer - InfoJr <br>🌟 Soul Bilíngue Student 2025.2 <br>🚀 Computação (2° Semestre) - UFBA <br>📚 Programação Front-end - Senai Cimatec <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês </p>
 
 ###
 
