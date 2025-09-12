@@ -1,12 +1,4 @@
-<h1 align="left">Olá, eu sou a Ana✨</h1>
-
-###
-
-<p align="left">Desenvolvedora em formação apaixonada por tecnologia, design e criatividade. Estou trilhando o caminho para me tornar desenvolvedora fullstack, explorando o universo do front e back-end. Também me aventuro com o Figma pois quero unir código e design para construir experiências incríveis, buscando criar interfaces criativas, funcionais e acessíveis. </p>
-
-###
-
-<h2 align="left">✨Sobre mim</h2>
+<h1 align="left">✨Sobre mim</h2>
 
 ###
 
