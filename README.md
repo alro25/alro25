@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif"  />
+<img align="right" height="160" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif"  />
 
 ###
 
