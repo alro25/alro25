@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩🏽‍💻 UI/UX Designer - InfoJr <br>🚀 2 semestre em Computação - UFBA <br>🌟 Soul Bilíngue Student 2025.2 <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês </p>
+<p align="left">👩🏽‍💻 UI/UX Designer - InfoJr <br>🚀 2 semestre em Computação - UFBA <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês </p>
 
 ###
 
