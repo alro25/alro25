@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="140" src="https://media1.tenor.com/m/1VEnfKkMGikAAAAd/lofi-girl-music.gif"  />
-
-###
-
 <p align="left">👩🏽‍💻 UI/UX Designer - InfoJr <br>🚀 2 semestre em Computação - UFBA <br>🎯 Foco: Desenvolvimento Fullstack + Design <br>🌍 Idiomas: Português, inglês, japonês e francês </p>
 
 ###
